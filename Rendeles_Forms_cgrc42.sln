@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rendeles_Forms_cgrc42", "Rendeles_Forms_cgrc42\Rendeles_Forms_cgrc42.csproj", "{A1E9E36A-3B2E-408E-BA18-77FF3B9D83EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1E9E36A-3B2E-408E-BA18-77FF3B9D83EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E9E36A-3B2E-408E-BA18-77FF3B9D83EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E9E36A-3B2E-408E-BA18-77FF3B9D83EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E9E36A-3B2E-408E-BA18-77FF3B9D83EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E747147B-18DF-4743-9906-1FB0DCE9AF79}
+	EndGlobalSection
+EndGlobal
