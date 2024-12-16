@@ -5,6 +5,8 @@
 ##### Tábla adatainak megjelenítése `ListBox`-ban. 
 
 - `1x2p` Adatok  megjelenítése
+  ![Screenshot 2024-12-15 224436](https://github.com/user-attachments/assets/b89ed889-cca8-4681-9ce5-95f8650b4d34)
+
 - `2x2p` Ha az adatok tetszőleges módszerrel, pl. `TextBox`-on keresztül szűrhetőek. 
 - `1x2p` Ha a tábla adatforrása saját osztály.  
 Textboxokon keresztül lehet szűrni a listboxokban megjelnített adatokra.
