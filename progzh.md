@@ -77,3 +77,4 @@ A fentebb felsorolt funkciók működnek mind a Celebrity és a Movies táblán 
 
 ### Összesen: 46 pont
 Igazából a projektem önmagában annyira nem hasznos és értelmes, de én nagyon igyekeztem minden kis tudásomat belerakni és a lehető legtöbbet kihozni belőle :)
+Kellemes ünnepeket!
